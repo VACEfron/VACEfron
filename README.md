@@ -14,8 +14,7 @@ Warning: Proficiency possibly limited.
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
-<br>
-<br>
+---
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=VACEfron&hide=issues,stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
