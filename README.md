@@ -1,6 +1,6 @@
 ### Hi.
 
-I'm a Dutch-Armenian developer and first-year CS student. I spend most of my time coding in C#. I also know HTML, CSS and a some Python. I'm usually working on my [Discord bot](https://konek0.nl/), along with some other projects when I'm inspired.
+I'm a Dutch-Armenian developer and first-year CS student. I spend most of my time coding in C#. I also know some Python and a negligible amount of JavaScript. I'm usually working on my [Discord bot](https://konek0.nl/), along with some other projects when I'm inspired.
 
 Here's my [Discord server](https://discord.gg/xJ2HRxZ).
 
