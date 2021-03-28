@@ -7,7 +7,7 @@ Here's my [Discord server](https://discord.gg/xJ2HRxZ).
 ### Things I work with
 Warning: Proficiency possibly limited.
 
-<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" alt="" width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
