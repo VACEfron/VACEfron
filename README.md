@@ -3,9 +3,7 @@
 
 ### Hi.
 
-I'm a Dutch-Armenian developer and 2nd year IT student. I spend most of my time coding in C#. I also know some Python and a negligible amount of JavaScript. I'm usually working on my [Discord bot](https://konek0.nl/), along with some other projects when I'm inspired.
-
-Here's my [Discord server](https://discord.gg/xJ2HRxZ).
+I'm a Dutch-Armenian developer and 2nd year IT student. I spend most of my time coding in C# and usually working on my [Discord bot](https://konek0.nl/) plus some other projects when I'm inspired.
 
 ### Things I work with
 Warning: Proficiency possibly limited.
