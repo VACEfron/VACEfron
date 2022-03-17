@@ -26,7 +26,3 @@ Warning: Proficiency possibly limited.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=VACEfron&hide=issues,stars&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VACEfron&layout=compact&theme=radical)
-
----
-
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=VACEfron&repo=discord-bot-csharp&theme=radical)](https://github.com/VACEfron/Discord-Bot-Csharp)
