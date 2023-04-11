@@ -3,7 +3,7 @@
 
 ### Hi.
 
-I'm a Dutch-Armenian developer and 3rd year IT student. I spend most of my time coding in C# and usually working on my [Discord bot](https://konek0.nl/) plus some other projects when I'm inspired.
+I'm a Dutch-Armenian developer and 3rd year IT student.
 
 ### Things I work with
 Warning: Proficiency possibly limited.
