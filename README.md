@@ -3,7 +3,7 @@
 
 ### Hi.
 
-I'm a Dutch-Armenian developer and 3rd year IT student.
+I'm an Armenian software engineer living in The Netherlands.
 
 ### Things I work with
 Warning: Proficiency possibly limited.
